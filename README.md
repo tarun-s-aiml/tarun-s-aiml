@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.-Artificial%20Intelligence%20%26%20Machine%20Learning-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.E.-Artificial%20Intelligence%20%26%20Machine%20Learning-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Graduation-March%202027-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
