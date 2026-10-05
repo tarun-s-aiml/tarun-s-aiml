@@ -68,6 +68,34 @@ I approach engineering with a **product-oriented mindset** — focusing not only
 
 </div>
 
+### AI / ML
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+</div>
+
+<div align="center">
+
+`Machine Learning` `Deep Learning` `NLP`
+
+</div>
+
+### Data Analytics
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+</div>
+
+<div align="center">
+
+`Power BI` `Microsoft Excel` `Data Analysis` `Data Visualization`
+
+</div>
+
 ### Cloud, DevOps & Tooling
 
 <div align="center">
