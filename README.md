@@ -72,23 +72,11 @@ I approach engineering with a **product-oriented mindset** — focusing not only
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-</div>
-
-<div align="center">
-
 `Machine Learning` `Deep Learning` `NLP`
 
 </div>
 
 ### Data Analytics
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-</div>
 
 <div align="center">
 
@@ -104,13 +92,6 @@ I approach engineering with a **product-oriented mindset** — focusing not only
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Power%20BI-5B21B6?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-4C1D95?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-4F46E5?style=flat-square"/>
-
-</div>
 
 ---
 
