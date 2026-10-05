@@ -68,22 +68,6 @@ I approach engineering with a **product-oriented mindset** — focusing not only
 
 </div>
 
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,mysql&theme=dark"/>
-
-</div>
-
 ### Cloud, DevOps & Tooling
 
 <div align="center">
