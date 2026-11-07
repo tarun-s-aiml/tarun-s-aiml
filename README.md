@@ -180,16 +180,16 @@ A machine-learning-based browser-oriented system designed to classify URLs as **
 
 ---
 
-### Artificial Intelligence Intern — InAmigos Foundation
+### Software Development Intern – Cognifyz IT Solutions
 
 **Remote, India**
 
-- Researched and evaluated AI tools including **ChatGPT, Microsoft Copilot, and Google Gemini**.
-- Analyzed practical AI applications across education, productivity, design, and communication.
-- Studied real-world social-impact problems and proposed AI-based solutions.
-- Explored applications involving personalized learning, NGO operations, animal rescue, accessibility, and responsible AI awareness.
+- Developed Python projects, including CRUD task managers with file I/O persistence.
+  Implemented input validation and error handling for missing or corrupted data.
+  Performed unit testing for core modules.
+  Gained practical experience in software development and Python programming.
 
-**Skills:** `Artificial Intelligence` `AI Tools` `Research` `Problem Solving` `Responsible AI`
+**Skills:** Python, CRUD Operations, File Handling, Error Handling, Unit Testing
 
 ---
 
@@ -215,7 +215,7 @@ A machine-learning-based browser-oriented system designed to classify URLs as **
 
 ### Udemy
 
-<img src="https://img.shields.io/badge/Java%20Programming%20Course-Udemy-6366F1?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20Programming%20Course-Udemy-6366F1?style=for-the-badge&logo=udemy&logoColor=white"/>
 
 ### Novitech Learning Hub
 
